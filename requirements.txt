@@ -1,5 +1,5 @@
-streamlit
+streamlit as st
+pandas as pd
+numpy as np
 joblib
-tensorflow
-keras
-numpy
+tensorflow as tf
